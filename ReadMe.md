@@ -1,4 +1,4 @@
-Random Joke Generator
+                                                                  Random Joke Generator
 The Random Joke Generator is a web application that fetches and displays random jokes from different categories. It serves as an interactive and entertaining tool for users to enjoy a good laugh. This project incorporates key programming concepts such as classes, switch statements, and error handling using try-catch-finally.
 
 How to Use the Site
